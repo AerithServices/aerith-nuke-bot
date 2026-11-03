@@ -1,2 +1,3 @@
-# aerith-nuke-bot
-a powerful discord nuker bot built with discord.py
+
+
+![Logo](https://raw.githubusercontent.com/AerithServices/aerith-nuke-bot/refs/heads/main/assets/github/aerith-banner.png)
